@@ -1,0 +1,12 @@
+int i = 0;
+int id;
+int start = 0;
+String message;
+int ft;
+int st;
+int tt;
+int ms;
+const int MAX_VALUES = 5; // maximum number of values in the input string
+const int MAX_VALUE_LENGTH = 5; // maximum length of each value
+char* incomingData[30];
+String inputString  = "";
